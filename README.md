@@ -6,6 +6,8 @@ A small branch-aware markdown scratchpad for Neovim.
 write quick markdown notes, switch branches, and the scratchpad saves and
 reloads the right content automatically.
 
+https://github.com/user-attachments/assets/4376718c-7b41-464d-93fa-931df7cd60f6
+
 ## Features
 
 - Branch-specific scratchpads for each Git repository.
